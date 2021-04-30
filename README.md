@@ -1,5 +1,5 @@
 # Git Drive
-Normally we write google docs and save it in drive. Git drive is a self hosted platform where you can write docs and save it to a github repo instead. The docs might be saved as mark down. 
+Normally we write google docs and save it in drive. Git drive is an open source self hosted platform where you can write docs and save it to a github repo instead. The docs might be saved as mark down. 
 
 ## Features
 ```
